@@ -1,0 +1,38 @@
+body{/**/
+    background-color: #1d2125; 
+}
+#box_1{
+    inline-size: 10cm;
+    border:solid 3px #faf3f3;
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    left: 20%;
+    background-color: rgb(189, 240, 51);
+    text-align: center;
+    color: rgb(155,255,161);
+    font-size: 32px;
+    margin-top: 100px;
+    
+}
+#box_1_1 {  
+    border: solid 5px; #color:046886;
+    height: 100px;
+    width: 100px;
+    position: bottom;
+    text-align: top;
+}
+#box_2{
+    inline-size: 5cm;
+    border:solid 5px #006540;
+    height: 150px;
+    width: 150px;
+    position : absolute;
+    right: 20%;
+    text-align: bottom;
+    color: rgba(123,345,679,0.5)
+    
+}
+#box_2_2{
+
+}
